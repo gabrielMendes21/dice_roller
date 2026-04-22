@@ -24,7 +24,7 @@ Este é um projeto educacional que aplica os conceitos fundamentais do Flutter e
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/gabrielMendes21/dice_roller.git
 cd first_app
 ```
 
