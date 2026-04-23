@@ -50,7 +50,7 @@ flutter run -d <device-id>
 
 ## 🎯 Principais Conceitos Aprendidos
 
-### Conceitos fundamentias de Dart
+### Conceitos fundamentais de Dart
 
 - Variáveis (var vs final vs const)
 - Funções (função anônima; parâmetros posicionais vs parâmetros nomeados;)
